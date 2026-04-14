@@ -3,6 +3,9 @@
 
 This is a frontend project built for [JSONPlaceholder](https://jsonplaceholder.typicode.com/).
 
+Effector version: https://github.com/johnkucharsky/react-effector-mui
+Redux version: https://github.com/johnkucharsky/react-redux-mui
+
 ## Features
 
 - **Effector** for state management
