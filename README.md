@@ -5,6 +5,11 @@ Each branch contains a different state manager.
 
 This is a frontend project built for [JSONPlaceholder](https://jsonplaceholder.typicode.com/).
 
+Deployed versions:
+- [redux](https://react-redux-mui-git-redux-johnkuchars-projects.vercel.app/)
+- [mobx](https://react-redux-mui-git-mobx-johnkuchars-projects.vercel.app/)
+- [effector](https://react-redux-mui-git-effector-johnkuchars-projects.vercel.app/)
+
 ## Features
 
 - **Redux** for state management
