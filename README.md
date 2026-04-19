@@ -1,10 +1,9 @@
 
-# React Redux MUI
+# Redux Mobx Effector
+
+Each branch contains a different state manager.
 
 This is a frontend project built for [JSONPlaceholder](https://jsonplaceholder.typicode.com/).
-
-Effector version: https://github.com/johnkucharsky/react-effector-mui <br/>
-Mobx version: https://github.com/johnkucharsky/react-mobx-mui
 
 ## Features
 
