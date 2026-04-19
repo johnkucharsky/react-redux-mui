@@ -3,9 +3,6 @@
 
 This is a frontend project built for [JSONPlaceholder](https://jsonplaceholder.typicode.com/).
 
-Mobx version: https://github.com/johnkucharsky/react-mobx-mui <br/>
-Redux version: https://github.com/johnkucharsky/react-redux-mui
-
 ## Features
 
 - **Effector** for state management
